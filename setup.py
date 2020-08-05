@@ -78,7 +78,7 @@ setup(
         ],
     install_requires=[
         'requests>=0.12.1',
-        'six>=1.9.0'
+        'six>=1.14.0'
     ],
     tests_require=tests_require,
     )
